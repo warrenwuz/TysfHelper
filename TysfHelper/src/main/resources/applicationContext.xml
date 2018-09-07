@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:mvc="http://www.springframework.org/schema/mvc"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans      
+                        http://www.springframework.org/schema/beans/spring-beans-3.1.xsd      
+                        http://www.springframework.org/schema/context      
+                        http://www.springframework.org/schema/context/spring-context-3.1.xsd      
+                        http://www.springframework.org/schema/mvc      
+                        http://www.springframework.org/schema/mvc/spring-mvc-4.0.xsd">
+
+	<!-- 使用注解式注入 -->
+	<context:annotation-config />
+
+	<!-- 自动扫描 -->
+	<context:component-scan base-package="org.wuzhe.tysfhelper.*" />
+
+	<!-- 导入DAO配置 -->
+	<import resource="spring-dao.xml" />
+
+	<!-- 导入数据库配置 -->
+	<import resource="spring-db.xml" />
+
+	<!-- 导入事务配置 -->
+	<import resource="spring-tx.xml" />
+	<!-- 微信逻辑配置 -->
+	<bean id="iService" class="com.soecode.wxtools.api.WxService">
+
+	</bean>
+	<!-- 微信处理器配置 -->
+	<bean id="hanlder" class="com.soecode.wxtools.handler.DemoHandler"></bean>
+	<!-- 微信菜单配置 -->
+	<bean id="menu" class="com.soecode.wxtools.bean.WxMenu">
+		<property name="button">
+			<list>
+				<bean id="btn1" class="com.soecode.wxtools.bean.WxMenu.WxMenuButton">
+					<property name="name" value="校园助手"></property>
+					<property name="sub_button">
+						<list>
+							<bean id="btn1-1" class="com.soecode.wxtools.bean.WxMenu.WxMenuButton">
+								<property name="type" value="click"></property>
+								<property name="name" value="空教室查询"></property>
+								<property name="key" value="Button11"></property>
+							</bean>
+							<bean id="btn1-2" class="com.soecode.wxtools.bean.WxMenu.WxMenuButton">
+								<property name="type" value="click"></property>
+								<property name="name" value="查询成绩"></property>
+								<property name="key" value="Button12"></property>
+							</bean>
+							<bean id="btn1-3" class="com.soecode.wxtools.bean.WxMenu.WxMenuButton">
+							    <property name="type" value="click"></property>
+								<property name="name" value="点击解除绑定"></property>
+								<property name="key" value="Button13"></property>
+							</bean>
+							<bean id="btn1-3" class="com.soecode.wxtools.bean.WxMenu.WxMenuButton">
+							    <property name="type" value="scancode_waitmsg"></property>
+								<property name="name" value="课堂互动"></property>
+								<property name="key" value="Button14"></property>
+							</bean>
+						</list>
+					</property>
+				</bean>
+				<bean id="btn2-1" class="com.soecode.wxtools.bean.WxMenu.WxMenuButton">
+								<property name="type" value="click"></property>
+								<property name="name" value="老师寄语"></property>
+								<property name="key" value="Button21"></property>
+							</bean>
+			</list>
+		</property>
+	</bean>
+	<!-- spring thread pool executor -->           
+    <bean id="taskExecutor" class="org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor">
+        <!-- 线程池维护线程的最少数量 -->
+        <property name="corePoolSize" value="5" />
+        <!-- 允许的空闲时间 -->
+        <property name="keepAliveSeconds" value="200" />
+        <!-- 线程池维护线程的最大数量 -->
+        <property name="maxPoolSize" value="10" />
+        <!-- 缓存队列 -->
+        <property name="queueCapacity" value="20" />
+        <!-- 对拒绝task的处理策略 -->
+        <property name="rejectedExecutionHandler">
+            <bean class="java.util.concurrent.ThreadPoolExecutor$CallerRunsPolicy" />
+        </property>
+    </bean>
+</beans>    

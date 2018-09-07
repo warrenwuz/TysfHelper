@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.wuzhe.tysfhelper.dao.IHomeworkDao">
+  <resultMap type="org.wuzhe.tysfhelper.pojo.Homework" id="Homework">
+    <id column="hid" javaType="string" property="hid"/>
+     <result column="htitle" javaType="string" property="htitle"/>
+    <result column="hcontent" javaType="string" property="hcontent"/>
+    <result column="tid" javaType="string" property="tid"/>
+    <result column="timestamp" javaType="java.sql.Timestamp" property="timestamp"/>
+    <result column="sumbitdate" javaType="java.sql.Date" property="sumbitdate"/>
+    <collection property="scList" ofType="org.wuzhe.tysfhelper.pojo.SchoolClass">
+       <id column="cid" javaType="string" property="cid"/>
+      <result column="cname" javaType="string" property="cname"/>
+     </collection>
+  </resultMap>
+   <insert id="addHomework" parameterType="org.wuzhe.tysfhelper.pojo.Homework">
+      insert into homework(hid,htitle,hcontent,timestamp,tid,sumbitdate)values(#{hid},#{htitle},#{hcontent},#{timestamp},#{tid},#{sumbitdate})
+   </insert>
+   <insert id="addHomeworkNotice" parameterType="ArrayList" >
+     insert into homeworknotice(hid,cid) values
+     <foreach collection="list" item="item" separator=",">
+     (#{item.hid},#{item.cid})
+     </foreach>
+   </insert>
+   <select id="queryOpenidListBySCid" parameterType="string" resultType="string"> 
+      select openid from student s,wxstudent wx where s.stuid=wx.stuid 
+      and s.cid in
+      <foreach collection="array" item="item" open="(" close=")" separator=",">
+      #{item}
+      </foreach> 
+      
+   </select>
+</mapper>

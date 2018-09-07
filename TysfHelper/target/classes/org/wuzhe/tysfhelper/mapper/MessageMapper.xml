@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.wuzhe.tysfhelper.dao.IMessageDao">
+  <resultMap type="org.wuzhe.tysfhelper.pojo.Message" id="Message">
+    <id column="mid" javaType="string" property="mid"/>
+    <result column="content" javaType="string" property="content"/>
+    <result column="openid" javaType="string" property="openid"/>
+    <result column="tid" javaType="string" property="tid"/>
+    <result column="timestamp" javaType="java.sql.Timestamp" property="timestamp"/>
+     <result column="isread" javaType="_int" property="isread"/>
+  
+  </resultMap>
+   <insert id="writerMessage" parameterType="org.wuzhe.tysfhelper.pojo.Message">
+      insert into message(mid,content,openid,tid,timestamp,isread)values(#{mid},#{content},#{openid},#{tid},#{timestamp},#{isread})
+   </insert>
+   <select id="queryMessageByOpenid"  resultMap="Message">
+      select mid,content,openid,tname from message m,teacher t where openid=#{openid} and m.tid=t.tid
+   </select>
+   <select id="queryMessageByTid" parameterType="string"  resultType="map">
+     select m.mid,s.stuId,m.content,s.sname,sc.cname,m.timestamp
+     from message m,wxstudent w,student s,schoolclass sc 
+     where  m.tid=#{tid} and m.openid=w.openid and w.stuId =s.stuId
+     and s.cid=sc.cid
+   </select>
+      <select id="queryUnReadMessageByTid" parameterType="string"  resultType="map">
+     select m.mid,s.stuId,m.content,s.sname,sc.cname,m.timestamp
+     from message m,wxstudent w,student s,schoolclass sc 
+     where  m.tid=#{tid} and m.isread='0' and m.openid=w.openid and w.stuId =s.stuId
+     and s.cid=sc.cid 
+   </select>
+   <select id="queryIsReadCount" resultType="_int" parameterType="string">
+    select count(mid) from  message where tid=#{tid} and isread='0' 
+   </select>
+   <select id="queryOpenidByMid" parameterType="string"  resultType="string">
+     select openid from message where mid=#{mid}
+   </select>
+   <update id="updateUnReadMessage" parameterType="string">
+    update message set isread='1' where isread='0'
+   </update>
+</mapper>

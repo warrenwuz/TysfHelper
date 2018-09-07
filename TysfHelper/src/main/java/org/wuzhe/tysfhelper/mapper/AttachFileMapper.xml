@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.wuzhe.tysfhelper.dao.IAttachFileDao">
+  <resultMap type="org.wuzhe.tysfhelper.pojo.AttachFile" id="AttachFile">
+    <id column="afid" javaType="string" property="afid"/>
+    <result column="afname" javaType="string" property="afName"/>
+    <result column="timestamp" javaType="java.sql.Timestamp" property="timestamp"/>
+  </resultMap>
+   <insert id="addAttachFile" parameterType="org.wuzhe.tysfhelper.pojo.AttachFile">
+      insert into attachfile(afid,afname,timestamp)values(#{afid},#{afName},#{timestamp})
+   </insert>
+   <select id="queryAttachFileName" parameterType="string" resultType="string">
+      select afname  from attachfile where afid=#{afid}
+   </select>
+</mapper>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.wuzhe.tysfhelper.dao.IJXLDao">
+   <resultMap type="org.wuzhe.tysfhelper.pojo.JXL" id="JXL">
+       <id column="jid" javaType="string" property="jid"/>
+       <result column="jname" javaType="string" property="jname"/>
+   </resultMap>
+    <insert id="addJXl" parameterType="org.wuzhe.tysfhelper.pojo.JXL">
+       insert into jxl(jid,jname)values(#{jid},#{jname})
+    
+    </insert>
+    <select id="queryAll" resultMap="JXL">
+     select jid,jname from jxl
+   
+   </select>
+
+</mapper>

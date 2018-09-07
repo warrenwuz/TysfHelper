@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.wuzhe.tysfhelper.dao.IQuestionDao">
+  <resultMap type="org.wuzhe.tysfhelper.pojo.Question" id="Question">
+	     <id column="id" javaType="Long" property="id"/>
+	    <result column="questionContent" javaType="string" property="questionContent"/>
+	    <result column="optionId" javaType="int" property="optionId"/>
+      <result column="ciid" javaType="string" property="ciid"/>
+      <result column="questionType" javaType="int" property="questionType"/>
+      <association property="correctOption" javaType="org.wuzhe.tysfhelper.pojo.Option" column="correctOption">
+          <id column="id" javaType="Long" property="id"></id>
+          <result column="optionContent" javaType="string" property="optionContent"/>
+      </association>
+     <collection property="options" ofType="org.wuzhe.tysfhelper.pojo.Option">
+	     <id column="id" javaType="Long" property="id"/>
+	    <result column="optionContent" javaType="string" property="optionContent"/>
+    </collection>
+  </resultMap>
+  <select id="findQuestionByCiid" resultMap="Question" parameterType="string">
+   select q.id,q.questionContent from question q,question_option o where  q.ciid=#{ciid} and o.id=q.correctOption;
+
+  </select>
+    <insert id="addQuestion" parameterType="org.wuzhe.tysfhelper.pojo.Question" useGeneratedKeys="true" keyColumn="id" keyProperty="id">
+        insert into question(questionContent,correctOption,ciid) values (#{questionContent},#{correctOption.id},#{ciid})
+    </insert>
+    <update id="setCorrectOptionByQuestionId" parameterType="org.wuzhe.tysfhelper.pojo.Question">
+        update question set correctOption=#{correctOption.id} where id=#{id}
+    </update>
+</mapper>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.wuzhe.tysfhelper.dao.IWxStudentDao">
+  <resultMap type="org.wuzhe.tysfhelper.pojo.WxStudent" id="WxStudent">
+    <id column="openid" javaType="string" property="openid"/>
+    <result column="stuId" javaType="string" property="stuId"/>
+    <result column="password" javaType="string" property="password"/>
+  
+  </resultMap>
+   <insert id="saveIWxStudent" parameterType="org.wuzhe.tysfhelper.pojo.WxStudent">
+      insert into wxstudent(openid,stuId,password)values(#{openid},#{stuId},#{password})
+   
+   </insert>
+   <select id="selectWxStduent" resultMap="WxStudent">
+     select openid,stuId,password from wxstudent where openid=#{openid}
+   
+   </select>
+
+</mapper>

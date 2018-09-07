@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.wuzhe.tysfhelper.dao.IOptionDao">
+  <resultMap type="org.wuzhe.tysfhelper.pojo.Option" id="QuestionOption">
+          <id column="id" javaType="Long" property="id"></id>
+          <result column="optionContent" javaType="string" property="optionContent"/>
+        <result column="question_id" javaType="string" property="questionId"/>
+  </resultMap>
+  <insert id="addOption" parameterType="org.wuzhe.tysfhelper.pojo.Option">
+      insert into question_option(optionContent,question_id) values (#{optionContent},#{questionId})
+  </insert>
+    <insert id="addOptionGetQuestionOptionId" parameterType="org.wuzhe.tysfhelper.pojo.Option" useGeneratedKeys="true" keyProperty="id" keyColumn="id">
+ insert into question_option(optionContent,question_id) values (#{optionContent},#{questionId})
+  </insert>
+</mapper>

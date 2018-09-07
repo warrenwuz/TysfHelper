@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.wuzhe.tysfhelper.dao.ISchoolClassDao">
+  <resultMap type="org.wuzhe.tysfhelper.pojo.SchoolClass" id="SchoolClass">
+    <id column="cid" javaType="string" property="cid"/>
+    <result column="cname" javaType="string" property="cname"/>
+  
+  </resultMap>
+   <insert id="addSchoolClass" parameterType="org.wuzhe.tysfhelper.pojo.SchoolClass">
+      insert into schoolclass(cid,cname)values(#{cid},#{cname})
+   </insert>
+</mapper>

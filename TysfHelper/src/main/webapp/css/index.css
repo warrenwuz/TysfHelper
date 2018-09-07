@@ -1,0 +1,19 @@
+th{
+	text-align: center;
+}
+.panel-heading{
+	color: cornflowerblue;
+	background-color: cornflowerblue;
+}
+a:hover {
+	text-decoration: none;
+	color: red;
+}
+table { table-layout: fixed;}
+
+td {
+	text-align: center;
+	white-space: nowrap; /*控制单行显示*/
+	overflow: hidden; /*超出隐藏*/
+	text-overflow: ellipsis; /*隐藏的字符用省略号表示*/
+}

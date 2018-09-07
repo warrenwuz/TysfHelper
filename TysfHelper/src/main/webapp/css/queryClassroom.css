@@ -1,0 +1,36 @@
+
+.page__title{
+	text-align: center;
+}
+.weui-cell_select{
+	background-color: lightyellow;
+}
+.page__title h1{
+	font-size: 48px;
+     color: #fafafa;
+	letter-spacing: 0;
+	text-shadow: 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px 4px 0px #666, 0px 5px 0px #555, 0px 6px 0px #444, 0px 7px 0px #333, 0px 8px 7px #001135 
+}
+.weui-label{
+	color: red;
+	text-align: center;
+}
+.weui-cell_access{
+	color: gray;
+	padding-left: 30px;
+}
+.page__hd{
+	margin-top: 30px;
+}
+.form-submit{
+	margin-top: 50px;
+}
+.custom-classname{
+	font-size: 20px;
+}
+.jxl-classname{
+	font-size: 20px;
+}
+.page__ft{
+	margin-top: 30px;
+}

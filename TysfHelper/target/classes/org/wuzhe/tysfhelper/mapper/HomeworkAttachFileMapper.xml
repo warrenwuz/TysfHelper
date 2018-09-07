@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.wuzhe.tysfhelper.dao.IHomeworkAttachFileDao">
+	<resultMap type="org.wuzhe.tysfhelper.pojo.HomeworkAttachFile"
+		id="HomeworkAttachFile">
+		<id column="afid" javaType="string" property="afid" />
+		<id column="hid" javaType="string" property="hid" />
+	</resultMap>
+	<insert id="addHomeworkAttachFile" parameterType="org.wuzhe.tysfhelper.pojo.HomeworkAttachFile">
+		insert into homeworkattachfile(afid,hid)values(#{afid},#{hid})
+	</insert>
+
+</mapper>

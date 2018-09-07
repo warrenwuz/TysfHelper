@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.wuzhe.tysfhelper.dao.IClassroomInterationRecordDao">
+    <resultMap type="org.wuzhe.tysfhelper.pojo.ClassroomInterationRecord" id="ClassroomInterationRecord">
+        <id column="id" javaType="Long" property="id"/>
+        <result column="ciid" javaType="string" property="ciid"/>
+        <result column="cid" javaType="string" property="cid"/>
+        <result column="is_efficacy" javaType="Boolean" property="isEfficacy"></result>
+    </resultMap>
+    <insert id="addClassroomInterationRecord" parameterType="org.wuzhe.tysfhelper.pojo.ClassroomInterationRecord">
+    insert into classroom_interation_record(ciid,cid,is_efficacy) values(#{ciid},#{cid},#{isEfficacy})
+   </insert>
+    <select id="queryClassroomInterationRecord" resultMap="ClassroomInterationRecord">
+        select id,ciid,cid,is_efficacy from classroom_interation_record where ciid=#{ciid} and is_efficacy=#{isEfficacy}
+    </select>
+</mapper>

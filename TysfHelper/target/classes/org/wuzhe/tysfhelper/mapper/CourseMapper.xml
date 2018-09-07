@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.wuzhe.tysfhelper.dao.ICourseDao">
+  <resultMap type="org.wuzhe.tysfhelper.pojo.Course" id="Course">
+    <id column="ckey" javaType="string" property="ckey"/>
+    <result column="cId" javaType="string" property="cId"/>
+    <result column="cname" javaType="string" property="cname"/>
+  
+  </resultMap>
+   <insert id="addCourse" parameterType="org.wuzhe.tysfhelper.pojo.Course">
+      insert into course(ckey,cId,cname)values(#{ckey},#{cId},#{cname})
+   </insert>
+
+</mapper>

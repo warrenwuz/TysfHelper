@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.wuzhe.tysfhelper.dao.IReplayMessageDao">
+	<resultMap type="org.wuzhe.tysfhelper.pojo.ReplayMessage"
+		id="ReplayMessage">
+		<id column="rmid" javaType="string" property="rmid" />
+		<result column="rmcontent" javaType="string" property="rmcontent" />
+		<result column="mid" javaType="string" property="mid" />
+		<result column="timestamp" javaType="java.sql.Timestamp"
+			property="timestamp" />
+		<result column="usermark" javaType="string" property="usermark" />
+	</resultMap>
+	<insert id="addRepalyMessage" parameterType="org.wuzhe.tysfhelper.pojo.ReplayMessage">
+		insert into replaymessage(rmid,rmcontent,mid,timestamp,usermark)values(#{rmid},#{rmcontent},#{mid},#{timestamp},#{usermark})
+	</insert>
+	<select id="queryRepalyMessage" resultMap="ReplayMessage">
+	 select rmid,rmcontent,timestamp,usermark from replaymessage where mid=#{mid}
+	</select>
+
+</mapper>

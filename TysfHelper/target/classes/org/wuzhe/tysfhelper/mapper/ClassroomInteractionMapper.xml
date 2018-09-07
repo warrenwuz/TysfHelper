@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.wuzhe.tysfhelper.dao.IClassroomInteractionDao">
+    <resultMap type="org.wuzhe.tysfhelper.pojo.ClassroomInteraction" id="ClassroomInteraction">
+        <id column="ciid" javaType="string" property="ciid"/>
+        <result column="ciname" javaType="string" property="ciname"/>
+        <result column="citimestamp" javaType="java.sql.Timestamp" property="citimestamp"/>
+        <result column="tid" javaType="string" property="tid"></result>
+        <collection property="questions" ofType="org.wuzhe.tysfhelper.pojo.Question">
+            <id column="id" javaType="Long" property="id"/>
+            <result column="questionContent" javaType="string" property="questionContent"/>
+            <result column="optionId" javaType="int" property="optionId"/>
+            <result column="questionType" javaType="int" property="questionType"/>
+        </collection>
+    </resultMap>
+    <select id="queryClassroomInteractions" resultMap="ClassroomInteraction">
+     select ci.ciid,ci.ciname,ci.citimestamp from classroominteraction ci order by citimestamp desc
+  </select>
+    <insert id="addClassroomInteraction" parameterType="org.wuzhe.tysfhelper.pojo.ClassroomInteraction">
+   insert into classroominteraction(ciid,ciname,tid) values(#{ciid},#{ciname},#{tid})
+  </insert>
+    <update id="updateClassroomInteraction" parameterType="org.wuzhe.tysfhelper.pojo.ClassroomInteraction">
+  update classroominteraction set ciname=#{ciname} where ciid=#{ciid}
+  </update>
+    <select id="queryClassroomInteractionByTid" resultMap="ClassroomInteraction">
+         select ci.ciid,ci.ciname,ci.citimestamp from classroominteraction ci where ci.tid=#{tid} order by citimestamp desc
+    </select>
+</mapper>
