@@ -6,808 +6,65 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="def150e3-89b3-4bd7-91f4-378b67eee1d2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/TysfHelper_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/TysfHelper_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/admin_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/admin_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_belerweb_pinyin4j_2_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_c3p0_0_9_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wx_wx_tools_2_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_5_0_0_Alpha1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_websocket_javax_websocket_api_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_39.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_json_lib_json_lib_jdk15_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_3_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/artifacts/TysfHelper_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/artifacts/TysfHelper_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__com_alibaba_fastjson_1_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__com_belerweb_pinyin4j_2_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__com_google_code_gson_gson_2_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__com_mchange_c3p0_0_9_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__com_wx_wx_tools_2_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__io_netty_netty_all_5_0_0_Alpha1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__javax_websocket_javax_websocket_api_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_39.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__net_sf_json_lib_json_lib_jdk15_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_3_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__org_mybatis_mybatis_3_2_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__org_springframework_spring_aop_4_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__org_springframework_spring_beans_4_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__org_springframework_spring_context_4_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__org_springframework_spring_context_support_4_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__org_springframework_spring_core_4_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__org_springframework_spring_expression_4_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__org_springframework_spring_jdbc_4_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__org_springframework_spring_orm_4_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__org_springframework_spring_oxm_4_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__org_springframework_spring_test_4_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__org_springframework_spring_tx_4_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__org_springframework_spring_web_4_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/TysfHelper.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/logs/ssm.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/Interceptor/ClickInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/Interceptor/LoginInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/UploadFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/classadmin/ClassAdminController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/student/DayfreeSel_SYFB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/student/MessageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/student/QueryGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/student/bindStudentSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/teacher/ClassroomInteractionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/teacher/HomeWorkController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/teacher/QuestionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/teacher/TeacherController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/thread/TemplateSenderThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/utils/GetVerificationCodeUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/websocket/ClassroomInteractionWebSocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/websocket/HttpSessionConfigurator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/weixin/WexinAuthorzation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/weixin/WxClassroomInteractionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/weixin/WxCreateCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/weixin/WxInitContoller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/dao/IAttachFileDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/dao/IClassAdminDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/dao/IClassroomDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/dao/IClassroomInteractionDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/dao/IClassroomInterationRecordDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/dao/ICourseDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/dao/IHomeworkAttachFileDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/dao/IHomeworkDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/dao/IJXLDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/dao/IMessageDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/dao/IOptionDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/dao/IQuestionDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/dao/IReplayMessageDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/dao/ISchoolClassDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/dao/ITeacherDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/dao/IWxStudentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/hanlder/weixin/ClickHanlder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/hanlder/weixin/ScanHanler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/hanlder/weixin/SubscribeHanlder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/mapper/AttachFileMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/mapper/ClassroomInteractionMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/mapper/ClassroomInteractionRecordMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/mapper/ClasssroomMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/mapper/CourseMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/mapper/HomeworkAttachFileMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/mapper/HomeworkMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/mapper/JXLMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/mapper/MessageMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/mapper/QuestionMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/mapper/QuestionOptionMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/mapper/RepalyMessageMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/mapper/SchoolClassMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/mapper/TeacherMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/mapper/WxStudentMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/AttachFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/ClassAdmin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/Classroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/ClassroomInteraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/ClassroomInterationRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/Homework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/HomeworkAttachFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/HomeworkNotice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/JXL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/Option.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/ReplayMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/SchoolClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/Teaching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/TemplateContent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/TemplateData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/TianKongQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/TysfHelperTimestamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/WxStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/IAttachFileService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/IClassroomInteractionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/IClassroomInterationRecordService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/IClassroomService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/ICourseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/IHomeworkAttachFileService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/IHomeworkService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/IJXLService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/IMessageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/IOptionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/IQueryGradeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/IQuestionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/IReplayMessageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/ISchoolClassService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/ITeacherService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/IWxStudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/InsertJXL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/impl/AttachFileServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/impl/ClassroomInteractionServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/impl/ClassroomInterationRecordServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/impl/ClassroomServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/impl/CourseServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/impl/HomeworkServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/impl/IHomeworkAttachFileServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/impl/JXLServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/impl/MessageServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/impl/OptionServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/impl/QueryGradeServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/impl/QuestionServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/impl/ReplayMessageServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/impl/SchoolClassServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/impl/TeacherSreviceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/impl/WxStudentServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/utils/AddressApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/utils/ChaoJiYing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/utils/GsonUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/utils/HanyuPinyinHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/utils/IdentifiyCodeUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/utils/UUIDUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/utils/crawlerCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/resources/spring-dao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/resources/spring-db.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/resources/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/resources/spring-tx.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/resources/wx.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/WEB-INF/error/error.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/WEB-INF/error/errorLogin.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/WEB-INF/jsp/common/foot.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/WEB-INF/jsp/common/head.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/WEB-INF/jsp/student/bindSystem.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/WEB-INF/jsp/student/doClassroomInteraction.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/WEB-INF/jsp/student/message.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/WEB-INF/jsp/student/queryClassroom.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/WEB-INF/jsp/student/queryGrade.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/WEB-INF/jsp/student/resultShow.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/WEB-INF/jsp/student/showMessages.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/WEB-INF/jsp/teacher/Hudong.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/WEB-INF/jsp/teacher/ReleaseClassroomInteraction.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/WEB-INF/jsp/teacher/head.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/WEB-INF/jsp/teacher/menu.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/WEB-INF/jsp/teacher/question.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/WEB-INF/jsp/teacher/releasehomework.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/WEB-INF/jsp/teacher/showMessage.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/WEB-INF/jsp/teacher/teacherMessage.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/common/common.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/common/foot.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/css/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/css/bootstrap-3.3.2.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/css/bootstrap-datetimepicker.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/css/bootstrap-multiselect.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/css/queryClassroom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/css/queryGrade.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/css/resultShow.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/css/webuploader.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/img/bg-login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/img/logo/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/img/logobg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/img/user/user.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/js/Uploader.swf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/js/bindSystem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/js/bootstrap-3.3.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/js/bootstrap-datetimepicker.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/js/bootstrap-datetimepicker.zh-CN.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/js/bootstrap-multiselect.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/js/global.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/js/jquery-2.1.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/js/layer/layer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/js/layer/mobile/layer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/js/layer/mobile/need/layer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/js/layer/theme/default/icon-ext.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/js/layer/theme/default/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/js/layer/theme/default/layer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/js/layer/theme/default/loading-0.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/js/layer/theme/default/loading-1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/js/layer/theme/default/loading-2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/js/md5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/js/queryClassroom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/js/showmessage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/js/teacher/hudong.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/js/teacher/question.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/js/webuploader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/src/main/webapp/success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/Interceptor/ClickInterceptor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/Interceptor/LoginInterceptor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/controller/Login.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/controller/UploadFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/controller/classadmin/ClassAdminController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/controller/student/DayfreeSel_SYFB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/controller/student/MessageController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/controller/student/QueryGrade.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/controller/student/bindStudentSystem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/controller/teacher/ClassroomInteractionController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/controller/teacher/HomeWorkController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/controller/teacher/QuestionController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/controller/teacher/TeacherController$wxTemplateSender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/controller/teacher/TeacherController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/controller/thread/TemplateSenderThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/controller/utils/GetVerificationCodeUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/controller/websocket/ClassroomInteractionWebSocket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/controller/weixin/WexinAuthorzation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/controller/weixin/WxClassroomInteractionController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/controller/weixin/WxCreateCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/controller/weixin/WxInitContoller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/dao/IAttachFileDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/dao/IClassAdminDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/dao/IClassroomDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/dao/IClassroomInteractionDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/dao/ICourseDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/dao/IHomeworkAttachFileDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/dao/IHomeworkDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/dao/IJXLDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/dao/IMessageDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/dao/IOptionDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/dao/IQuestionDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/dao/IReplayMessageDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/dao/ISchoolClassDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/dao/ITeacherDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/dao/IWxStudentDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/hanlder/weixin/ClickHanlder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/hanlder/weixin/ScanHanler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/hanlder/weixin/SubscribeHanlder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/mapper/AttachFileMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/mapper/ClassroomInteractionMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/mapper/ClasssroomMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/mapper/CourseMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/mapper/HomeworkAttachFileMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/mapper/HomeworkMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/mapper/JXLMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/mapper/MessageMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/mapper/QuestionMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/mapper/QuestionOptionMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/mapper/RepalyMessageMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/mapper/SchoolClassMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/mapper/TeacherMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/mapper/WxStudentMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/pojo/AttachFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/pojo/ChoiceQuestion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/pojo/ClassAdmin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/pojo/Classroom.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/pojo/ClassroomInteraction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/pojo/Course.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/pojo/Homework.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/pojo/HomeworkAttachFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/pojo/HomeworkNotice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/pojo/JXL.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/pojo/Message.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/pojo/Option.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/pojo/Question.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/pojo/ReplayMessage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/pojo/SchoolClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/pojo/Teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/pojo/Teaching.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/pojo/TemplateContent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/pojo/TemplateData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/pojo/TianKongQuestion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/pojo/TysfHelperTimestamp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/pojo/WxStudent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/IAttachFileService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/IClassroomInteractionService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/IClassroomService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/ICourseService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/IHomeworkAttachFileService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/IHomeworkService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/IJXLService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/IMessageService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/IOptionService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/IQueryGradeService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/IQuestionService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/IReplayMessageService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/ISchoolClassService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/ITeacherService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/IWxStudentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/InsertJXL.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/impl/AttachFileServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/impl/ClassroomInteractionServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/impl/ClassroomServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/impl/CourseServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/impl/HomeworkServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/impl/IHomeworkAttachFileServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/impl/JXLServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/impl/MessageServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/impl/OptionServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/impl/QueryGradeServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/impl/QuestionServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/impl/ReplayMessageServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/impl/SchoolClassServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/impl/TeacherSreviceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/service/impl/WxStudentServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/utils/AddressApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/utils/ChaoJiYing.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/utils/GsonUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/utils/HanyuPinyinHelper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/utils/IdentifiyCodeUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/utils/UUIDUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/org/wuzhe/tysfhelper/utils/crawlerCourse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/spring-dao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/spring-db.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/spring-tx.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/classes/wx.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/error/error.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/error/errorLogin.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/jsp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/jsp/student/bindSystem.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/jsp/student/doClassroomInteraction.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/jsp/student/message.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/jsp/student/queryClassroom.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/jsp/student/queryGrade.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/jsp/student/resultShow.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/jsp/student/showMessages.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/jsp/teacher/Hudong.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/jsp/teacher/HudongDetail.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/jsp/teacher/ReleaseClassroomInteraction.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/jsp/teacher/head.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/jsp/teacher/question.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/jsp/teacher/releasehomework.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/jsp/teacher/showMessage.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/jsp/teacher/teacherMessage.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/c3p0-0.9.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/commons-beanutils-1.8.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/commons-codec-1.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/commons-collections-3.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/commons-io-2.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/commons-lang-2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/commons-logging-1.1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/dom4j-1.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/ezmorph-1.0.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/fastjson-1.2.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/gson-2.8.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/httpclient-4.3.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/httpcore-4.3.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/httpmime-4.3.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/jackson-core-asl-1.9.13.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/json-lib-2.4-jdk15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/jsoup-1.8.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/jsqlparser-0.9.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/mchange-commons-java-0.2.3.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/mybatis-3.2.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/mybatis-spring-1.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/mysql-connector-java-5.1.39.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/netty-all-5.0.0.Alpha1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/pagehelper-5.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/pinyin4j-2.5.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/slf4j-api-1.7.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/slf4j-log4j12-1.7.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/spring-aop-4.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/spring-beans-4.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/spring-context-4.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/spring-context-support-4.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/spring-core-4.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/spring-expression-4.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/spring-jdbc-4.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/spring-orm-4.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/spring-oxm-4.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/spring-test-4.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/spring-tx-4.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/spring-web-4.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/spring-webmvc-4.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/wx-tools-2.13.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/xml-apis-1.0.b2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/xmlpull-1.1.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/xpp3_min-1.1.4c.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/lib/xstream-1.4.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/css/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/css/bootstrap-3.3.2.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/css/bootstrap-datetimepicker.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/css/bootstrap-multiselect.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/css/queryClassroom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/css/queryGrade.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/css/resultShow.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/css/webuploader.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/img/bg-login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/img/logo/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/img/logobg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/img/user/user.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/js/Uploader.swf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/js/bindSystem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/js/bootstrap-3.3.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/js/bootstrap-datetimepicker.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/js/bootstrap-datetimepicker.zh-CN.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/js/bootstrap-multiselect.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/js/global.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/js/jquery-2.1.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/js/layer/layer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/js/layer/mobile/layer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/js/layer/mobile/need/layer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/js/layer/theme/default/icon-ext.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/js/layer/theme/default/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/js/layer/theme/default/layer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/js/layer/theme/default/loading-0.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/js/layer/theme/default/loading-1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/js/layer/theme/default/loading-2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/js/md5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/js/queryClassroom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/js/showmessage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/js/teacher/hudong.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/js/teacher/question.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/js/webuploader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/TysfHelper/success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/Interceptor/ClickInterceptor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/Interceptor/LoginInterceptor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/controller/Login.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/controller/UploadFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/controller/classadmin/ClassAdminController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/controller/student/DayfreeSel_SYFB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/controller/student/MessageController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/controller/student/QueryGrade.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/controller/student/bindStudentSystem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/controller/teacher/ClassroomInteractionController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/controller/teacher/HomeWorkController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/controller/teacher/QuestionController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/controller/teacher/TeacherController$wxTemplateSender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/controller/teacher/TeacherController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/controller/thread/TemplateSenderThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/controller/utils/GetVerificationCodeUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/controller/websocket/ClassroomInteractionWebSocket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/controller/websocket/HttpSessionConfigurator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/controller/weixin/WexinAuthorzation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/controller/weixin/WxClassroomInteractionController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/controller/weixin/WxCreateCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/controller/weixin/WxInitContoller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/dao/IAttachFileDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/dao/IClassAdminDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/dao/IClassroomDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/dao/IClassroomInteractionDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/dao/IClassroomInterationRecordDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/dao/ICourseDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/dao/IHomeworkAttachFileDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/dao/IHomeworkDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/dao/IJXLDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/dao/IMessageDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/dao/IOptionDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/dao/IQuestionDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/dao/IReplayMessageDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/dao/ISchoolClassDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/dao/ITeacherDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/dao/IWxStudentDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/hanlder/weixin/ClickHanlder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/hanlder/weixin/ScanHanler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/hanlder/weixin/SubscribeHanlder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/mapper/AttachFileMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/mapper/ClassroomInteractionMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/mapper/ClassroomInteractionRecordMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/mapper/ClasssroomMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/mapper/CourseMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/mapper/HomeworkAttachFileMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/mapper/HomeworkMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/mapper/JXLMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/mapper/MessageMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/mapper/QuestionMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/mapper/QuestionOptionMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/mapper/RepalyMessageMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/mapper/SchoolClassMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/mapper/TeacherMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/mapper/WxStudentMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/pojo/AttachFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/pojo/ClassAdmin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/pojo/Classroom.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/pojo/ClassroomInteraction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/pojo/ClassroomInterationRecord.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/pojo/Course.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/pojo/Data.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/pojo/Homework.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/pojo/HomeworkAttachFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/pojo/HomeworkNotice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/pojo/JXL.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/pojo/Message.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/pojo/Option.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/pojo/Question.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/pojo/ReplayMessage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/pojo/SchoolClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/pojo/Teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/pojo/Teaching.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/pojo/TemplateContent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/pojo/TemplateData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/pojo/TianKongQuestion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/pojo/TysfHelperTimestamp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/pojo/WxStudent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/IAttachFileService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/IClassroomInteractionService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/IClassroomInterationRecordService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/IClassroomService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/ICourseService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/IHomeworkAttachFileService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/IHomeworkService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/IJXLService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/IMessageService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/IOptionService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/IQueryGradeService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/IQuestionService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/IReplayMessageService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/ISchoolClassService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/ITeacherService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/IWxStudentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/InsertJXL.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/impl/AttachFileServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/impl/ClassroomInteractionServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/impl/ClassroomInterationRecordServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/impl/ClassroomServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/impl/CourseServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/impl/HomeworkServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/impl/IHomeworkAttachFileServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/impl/JXLServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/impl/MessageServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/impl/OptionServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/impl/QueryGradeServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/impl/QuestionServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/impl/ReplayMessageServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/impl/SchoolClassServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/impl/TeacherSreviceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/service/impl/WxStudentServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/utils/AddressApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/utils/ChaoJiYing.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/utils/GsonUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/utils/HanyuPinyinHelper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/utils/IdentifiyCodeUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/utils/UUIDUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/org/wuzhe/tysfhelper/utils/crawlerCourse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/spring-dao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/spring-db.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/spring-tx.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/classes/wx.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/conf/logging.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/conf/tomcat-users.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/conf/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/logs/access_log.2018-04-20" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/logs/access_log.2018-04-22" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/logs/access_log.2018-04-24" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/logs/access_log.2018-04-25" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/TysfHelper/org/apache/jsp/WEB_002dINF/error/errorLogin_jsp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/TysfHelper/org/apache/jsp/WEB_002dINF/error/errorLogin_jsp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/TysfHelper/org/apache/jsp/WEB_002dINF/jsp/login_jsp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/TysfHelper/org/apache/jsp/WEB_002dINF/jsp/login_jsp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/TysfHelper/org/apache/jsp/WEB_002dINF/jsp/student/doClassroomInteraction_jsp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/TysfHelper/org/apache/jsp/WEB_002dINF/jsp/student/doClassroomInteraction_jsp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/TysfHelper/org/apache/jsp/WEB_002dINF/jsp/student/queryGrade_jsp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/TysfHelper/org/apache/jsp/WEB_002dINF/jsp/student/queryGrade_jsp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/TysfHelper/org/apache/jsp/WEB_002dINF/jsp/teacher/Hudong_jsp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/TysfHelper/org/apache/jsp/WEB_002dINF/jsp/teacher/Hudong_jsp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/TysfHelper/org/apache/jsp/WEB_002dINF/jsp/teacher/ReleaseClassroomInteraction_jsp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/TysfHelper/org/apache/jsp/WEB_002dINF/jsp/teacher/ReleaseClassroomInteraction_jsp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/TysfHelper/org/apache/jsp/WEB_002dINF/jsp/teacher/head_jsp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/TysfHelper/org/apache/jsp/WEB_002dINF/jsp/teacher/head_jsp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/TysfHelper/org/apache/jsp/WEB_002dINF/jsp/teacher/menu_jsp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/TysfHelper/org/apache/jsp/WEB_002dINF/jsp/teacher/menu_jsp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/TysfHelper/org/apache/jsp/WEB_002dINF/jsp/teacher/question_jsp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/TysfHelper/org/apache/jsp/WEB_002dINF/jsp/teacher/question_jsp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/TysfHelper/org/apache/jsp/WEB_002dINF/jsp/teacher/releasehomework_jsp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/TysfHelper/org/apache/jsp/WEB_002dINF/jsp/teacher/releasehomework_jsp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/TysfHelper/org/apache/jsp/WEB_002dINF/jsp/teacher/showMessage_jsp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/TysfHelper/org/apache/jsp/WEB_002dINF/jsp/teacher/showMessage_jsp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/login_jsp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/login_jsp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/teacher/Hudong_jsp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/teacher/Hudong_jsp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/teacher/head_jsp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/teacher/head_jsp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/teacher/releasehomework_jsp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/teacher/releasehomework_jsp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/teacher/showMessage_jsp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TysfHelper/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/teacher/showMessage_jsp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/admin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/c3p0-0.9.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/commons-beanutils-1.8.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/commons-codec-1.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/commons-collections-3.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/commons-io-2.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/commons-lang-2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/commons-logging-1.1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/dom4j-1.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/ezmorph-1.0.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/fastjson-1.2.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/gson-2.8.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/httpclient-4.3.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/httpcore-4.3.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/httpmime-4.3.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/jackson-core-asl-1.9.13.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/json-lib-2.4-jdk15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/jsoup-1.8.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/jsqlparser-0.9.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/mchange-commons-java-0.2.3.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/mybatis-3.2.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/mybatis-spring-1.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/mysql-connector-java-5.1.39.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/netty-all-5.0.0.Alpha1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/pagehelper-5.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/pinyin4j-2.5.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/slf4j-api-1.7.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/slf4j-log4j12-1.7.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/spring-aop-4.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/spring-beans-4.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/spring-context-4.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/spring-context-support-4.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/spring-core-4.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/spring-expression-4.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/spring-jdbc-4.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/spring-orm-4.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/spring-oxm-4.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/spring-test-4.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/spring-tx-4.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/spring-web-4.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/spring-webmvc-4.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/wx-tools-2.13.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/xml-apis-1.0.b2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/xmlpull-1.1.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/xpp3_min-1.1.4c.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/lib/xstream-1.4.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/admin/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helper.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/netty.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/netty/NettyNotice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/netty/NettyServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/netty/hanlder/ChildChannelHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/netty/hanlder/Global.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/netty/hanlder/MyWebSocketServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/netty/NettyNotice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/netty/NettyServer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/netty/NettyServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/netty/hanlder/ChildChannelHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/netty/hanlder/Global.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/netty/hanlder/MyWebSocketServerHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/netty-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_belerweb_pinyin4j_2_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_belerweb_pinyin4j_2_5_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_c3p0_0_9_2_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_c3p0_0_9_2_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_3_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_3_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_wx_wx_tools_2_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_wx_wx_tools_2_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_5_0_0_Alpha1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_5_0_0_Alpha1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_websocket_javax_websocket_api_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_websocket_javax_websocket_api_1_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_39.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_39.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_json_lib_json_lib_jdk15_2_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_json_lib_json_lib_jdk15_2_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_3_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_3_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_0_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_0_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_0_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_0_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_0_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_0_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_0_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_0_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_0_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_0_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_0_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_0_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_0_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_0_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_0_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_0_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_0_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_0_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_0_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_0_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_0_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_0_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_0_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_0_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TysfHelper/src/main/resources/wx.properties" beforeDir="false" afterPath="$PROJECT_DIR$/TysfHelper/src/main/resources/wx.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/target/admin.war" beforeDir="false" afterPath="$PROJECT_DIR$/admin/target/admin.war" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -837,24 +94,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ScanHanler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/hanlder/weixin/ScanHanler.java">
+      <file leaf-file-name="JXL.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/JXL.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+            <state relative-caret-position="136">
+              <caret line="8" column="13" selection-end-line="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClassroomInterationRecord.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/ClassroomInterationRecord.java">
+      <file leaf-file-name="Message.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/Message.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
-              <folding>
-                <element signature="e#255#256#0" expanded="true" />
-                <element signature="e#278#279#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-end-line="99" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Option.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/Option.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/Question.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-end-line="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReplayMessage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/ReplayMessage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="10" column="13" selection-end-line="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SchoolClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/SchoolClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Teacher.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/Teacher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="15" lean-forward="true" selection-end-line="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Teaching.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/Teaching.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="13" selection-end-line="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TemplateContent.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/TemplateContent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TemplateData.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/TemplateData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-end-line="77" />
             </state>
           </provider>
         </entry>
@@ -893,8 +218,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/dao/IQustionDao.java" />
-        <option value="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/teacher/Question.java" />
         <option value="$PROJECT_DIR$/TysfHelper/src/main/webapp/js/teacher/hudong.js" />
         <option value="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/Question.java" />
         <option value="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/IOptionService.java" />
@@ -944,6 +267,8 @@
         <option value="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/mapper/ClassroomInteractionRecordMapper.xml" />
         <option value="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/ClassroomInterationRecord.java" />
         <option value="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/hanlder/weixin/ScanHanler.java" />
+        <option value="$PROJECT_DIR$/TysfHelper/src/main/resources/wx.properties" />
+        <option value="$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/student/DayfreeSel_SYFB.java" />
       </list>
     </option>
   </component>
@@ -954,6 +279,11 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\Development\MAVENWareHouse\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
@@ -974,7 +304,21 @@
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="admin Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="netty" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="TysfHelper Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="TysfHelper Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
       <select />
@@ -1001,16 +345,6 @@
             <path>
               <item name="helper" type="b2602c69:ProjectViewProjectNode" />
               <item name="helper" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="helper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helper" type="462c0819:PsiDirectoryNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="helper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helper" type="462c0819:PsiDirectoryNode" />
               <item name="TysfHelper" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -1062,7 +396,18 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tysfhelper" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
-              <item name="classadmin" type="462c0819:PsiDirectoryNode" />
+              <item name="teacher" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="helper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helper" type="462c0819:PsiDirectoryNode" />
+              <item name="TysfHelper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tysfhelper" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="websocket" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="helper" type="b2602c69:ProjectViewProjectNode" />
@@ -1074,19 +419,47 @@
               <item name="tysfhelper" type="462c0819:PsiDirectoryNode" />
               <item name="dao" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="helper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helper" type="462c0819:PsiDirectoryNode" />
+              <item name="TysfHelper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tysfhelper" type="462c0819:PsiDirectoryNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="helper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helper" type="462c0819:PsiDirectoryNode" />
+              <item name="TysfHelper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tysfhelper" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="helper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helper" type="462c0819:PsiDirectoryNode" />
+              <item name="TysfHelper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/shiro" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -1209,12 +582,22 @@
       <workItem from="1524622167455" duration="21805000" />
       <workItem from="1524657457357" duration="6234000" />
       <workItem from="1524744606490" duration="1357000" />
-      <workItem from="1536283991356" duration="604000" />
+      <workItem from="1536283991356" duration="1367000" />
+      <workItem from="1536407229673" duration="111000" />
+      <workItem from="1536460759065" duration="6604000" />
     </task>
+    <task id="LOCAL-00001" summary="初始化校园助手">
+      <created>1536284850713</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1536284850713</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72719000" />
+    <option name="totallyTimeSpent" value="80197000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1241,17 +624,17 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.43185842" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4306839" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32864866" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.32902032" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32902032" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.26548672" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26432532" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.7615527" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2821342" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2918351" />
       <window_info id="Web" order="6" side_tool="true" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="7" />
@@ -1307,6 +690,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始化校园助手" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始化校园助手" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -1326,269 +713,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/ClassroomInterationRecord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="71" selection-start-line="21" selection-start-column="71" selection-end-line="21" selection-end-column="71" />
-          <folding>
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/Login.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/thread/TemplateSenderThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/Teacher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/websocket/javax.websocket-api/1.1/javax.websocket-api-1.1.jar!/javax/websocket/OnClose.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/websocket/javax.websocket-api/1.1/javax.websocket-api-1.1.jar!/javax/websocket/server/ServerEndpoint.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="26" column="32" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/websocket/javax.websocket-api/1.1/javax.websocket-api-1.1.jar!/javax/websocket/server/HandshakeRequest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="25" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/websocket/javax.websocket-api/1.1/javax.websocket-api-1.1.jar!/javax/websocket/server/ServerEndpointConfig.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/websocket/javax.websocket-api/1.1/javax.websocket-api-1.1.jar!/javax/websocket/Session.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/websocket/ClassroomInteractionWebSocket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="114" column="48" selection-start-line="114" selection-start-column="48" selection-end-line="114" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/websocket/javax.websocket-api/1.1/javax.websocket-api-1.1.jar!/javax/websocket/EndpointConfig.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/Interceptor/LoginInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/Interceptor/ClickInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/websocket/HttpSessionConfigurator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/Question.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/IQuestionService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/Option.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/weixin/WxCreateCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/hanlder/weixin/SubscribeHanlder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/weixin/WxInitContoller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="70" column="71" lean-forward="true" selection-start-line="70" selection-start-column="71" selection-end-line="70" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/weixin/WxClassroomInteractionController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/teacher/QuestionController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="72" selection-start-line="72" selection-end-line="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/student/bindStudentSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="147" column="44" selection-start-line="147" selection-start-column="44" selection-end-line="147" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/impl/QuestionServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/webapp/WEB-INF/jsp/teacher/Hudong.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="40" column="58" lean-forward="true" selection-start-line="40" selection-start-column="58" selection-end-line="40" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/ClassroomInteraction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/webapp/WEB-INF/jsp/teacher/ReleaseClassroomInteraction.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="36" column="25" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/Data.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/IClassroomInteractionService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="15" column="60" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/dao/IClassroomInteractionDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/mapper/AttachFileMapper.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/mapper/HomeworkAttachFileMapper.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/mapper/HomeworkMapper.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/mapper/MessageMapper.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/mapper/QuestionMapper.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/mapper/QuestionOptionMapper.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/mapper/RepalyMessageMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/mapper/ClasssroomMapper.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/impl/ClassroomInteractionServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/mapper/ClassroomInteractionMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="85" selection-start-line="19" selection-start-column="85" selection-end-line="19" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/service/IWxStudentService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/WxStudent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-270">
@@ -1600,13 +724,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="55">
           <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/teacher/ClassroomInteractionController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="64" column="52" selection-start-line="64" selection-start-column="52" selection-end-line="64" selection-end-column="52" />
+          <folding>
+            <marker date="1524659750416" expanded="true" signature="648:730" ph="insert into wxstudent... " />
+            <marker date="1524659750416" expanded="true" signature="808:878" ph="select openi... wxstudent" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1651,19 +772,313 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/hanlder/weixin/ScanHanler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
+        <state relative-caret-position="306">
           <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/teacher/QuestionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="98" column="3" selection-start-line="98" selection-start-column="3" selection-end-line="98" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/resources/wx.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/resources/spring-db.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="55" lean-forward="true" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/classadmin/ClassAdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/weixin/WxInitContoller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-795">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/weixin/WxCreateCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/weixin/WxClassroomInteractionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/weixin/WexinAuthorzation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/student/DayfreeSel_SYFB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="22" lean-forward="true" selection-end-line="182" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/student/bindStudentSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="52" column="28" lean-forward="true" selection-end-line="178" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/student/MessageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="31" column="13" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/student/QueryGrade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="21" selection-end-line="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/teacher/ClassroomInteractionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="80" column="8" selection-end-line="139" />
+          <folding>
+            <element signature="e#1906#1917#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/teacher/HomeWorkController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="41" column="21" lean-forward="true" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/teacher/TeacherController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="67" column="31" lean-forward="true" selection-end-line="199" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/websocket/ClassroomInteractionWebSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="21" column="29" selection-end-line="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/websocket/HttpSessionConfigurator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="36" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="50" column="14" lean-forward="true" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/controller/UploadFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/dao/IOptionDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/AttachFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="14" column="18" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/ClassAdmin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/Classroom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/ClassroomInteraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="20" lean-forward="true" selection-end-line="75" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/ClassroomInterationRecord.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
+        <state relative-caret-position="17">
+          <caret line="18" column="20" selection-end-line="58" />
           <folding>
             <element signature="e#255#256#0" expanded="true" />
             <element signature="e#278#279#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="43" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/Homework.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="12" column="13" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/HomeworkAttachFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="8" column="13" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/HomeworkNotice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="8" column="13" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/JXL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/Option.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/ReplayMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="10" column="13" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/SchoolClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="15" lean-forward="true" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/Teaching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/TemplateContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TysfHelper/src/main/java/org/wuzhe/tysfhelper/pojo/TemplateData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-end-line="77" />
         </state>
       </provider>
     </entry>
